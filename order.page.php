@@ -412,12 +412,12 @@ YOUR BOOKING SUMMARY:
 			 * TurboSMS
 			 */
 			//DATABASE TurboSMS
-			$_CONF['db']['hostTurbo'] 	= '94.249.146.189';
-			$_CONF['db']['userTurbo'] 	= 'viktorados';
-			$_CONF['db']['passTurbo'] 	= 'FD?HRLdswqq';
+			$_CONF['db']['hostTurbo'] 	= '94.249.xxx.xxx';
+			$_CONF['db']['userTurbo'] 	= 'vixxxxxx';
+			$_CONF['db']['passTurbo'] 	= 'FD?xxxxxx';
 			$_CONF['db']['nameTurbo'] 	= 'users';	 
-			$_CONF['tbl']['sms'] 		= 'viktorados';
-			$_CONF['TurboSMSPhone'] 	= '380631484015'; // Ivan 380631484015
+			$_CONF['tbl']['sms'] 		= 'vikxxxxxx';
+			$_CONF['TurboSMSPhone'] 	= '380xxxxxxx'; // Ivan 380631484015
 		 
 			$hLinkTurboSMS = mysqli_connect(Dream::getParam('db','hostTurbo'), Dream::getParam('db','userTurbo'), Dream::getParam('db','passTurbo'), Dream::getParam('db','nameTurbo'));
 				//if (!$hLinkTurboSMS){ exit ('Unable to connect to TurboSMS database'); }
