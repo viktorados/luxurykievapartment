@@ -1184,7 +1184,7 @@ class Dream
 		$sLang 				= $oUrl->_sLanguage;
 		$bIsMobile 			= Dream::getParam('mobile');
 		
-		$sGMapCode = '<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;language='.$sLang.'&amp;key=AIzaSyCWnM5RDigTFKqQK9TJVkFOdPm4fztjQcI"></script>
+		$sGMapCode = '<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;language='.$sLang.'&amp;key=хххххххххххххххххххххххххххх"></script>
 		
 		<script type="text/javascript">
 			window.onload = loadGmap;
