@@ -5,11 +5,7 @@ defined('IN_DREAM') or exit('NO DICE!');
 /**
  * 
  * 
- * @copyright		[PHPFOX_COPYRIGHT]
- * @author			Raymond Benc
- * @package 		Phpfox
- * @version 		$Id: phpfox.class.php 305 2009-03-24 21:09:57Z Raymond_Benc $
- */
+*/
 
 class Dream
 {	
